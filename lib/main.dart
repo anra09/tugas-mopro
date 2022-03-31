@@ -31,7 +31,7 @@ class _MyAppState extends State<MyApp> {
                 SizedBox(
                   width: 195,
                 ),
-                Text('065119172', style: dua),
+                Text('065119154', style: dua),
                 SizedBox(
                   width: 8,
                 ),
@@ -166,7 +166,7 @@ class _MyAppState extends State<MyApp> {
             Column(
               children: [
                 Image.asset(
-                  'assets/idar.png',
+                  'assets/agoy.jpeg',
                   width: 135,
                   height: 135,
                 ),
@@ -174,14 +174,14 @@ class _MyAppState extends State<MyApp> {
                   height: 15,
                 ),
                 Text(
-                  'Muhammad Chaidar M',
+                  'Prayoga Anom Rahmatullah',
                   style: TextStyle(fontSize: 20, fontWeight: FontWeight.w500),
                 ),
                 Text(
-                  'chaidar.065119172@unpak.ac.id',
+                  'prayoga.065119154@unpak.ac.id',
                 ),
                 Text(
-                  '089604953607',
+                  '085771868530',
                 )
               ],
             ),
@@ -194,7 +194,7 @@ class _MyAppState extends State<MyApp> {
             ),
             Column(
               children: [
-                teks('Nama Lengkap', 'Muhammad Chaidar Mudzaky'),
+                teks('Nama Lengkap', 'Prayoga Anom Rahmatullah'),
                 SizedBox(
                   height: 2,
                 ),
@@ -208,7 +208,7 @@ class _MyAppState extends State<MyApp> {
                 SizedBox(
                   height: 5,
                 ),
-                teks('Panggilan', 'Idar'),
+                teks('Panggilan', 'Agoy'),
                 SizedBox(
                   height: 2,
                 ),
@@ -235,7 +235,7 @@ class _MyAppState extends State<MyApp> {
                         height: 8,
                       ),
                       Text(
-                        'Kp.tlajung RT01/012 \nKec. Bogor Barat, Kota Bogor, Jawa Barat',
+                        'Kp. Kukupu RT 01/08 No. 12 Kel. Cibadak Kec. Tanah Sareal Kota Bogor',
                         style: empat,
                       ),
                     ],
